@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /thankyou.html/
+Disallow: /blog-single.html/
+Disallow: /404.html/
